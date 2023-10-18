@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #D9DBFC;
+}
+.img{
+    position: relative;
+left: 230px;
+top: 20px;}
+.h11{
+    font-family: 'Courier New';
+    font-size: xx-large;
+    text-align: center;
+    color: #221ac7;
+    position: relative;
+    
+}
+.p11{
+    font-family: 'Courier New';
+    font-size: x-large;
+    text-align: center;
+    color: #221ac7;
+    position: relative;
+    font-style: normal;
+    
+}
+.img2{
+    position: relative;
+left: 350px;
+top: 64px;}
+.img3{
+    position: absolute;
+left: 700px;
+top: 1135px;}
+.buzz{
+    font-family: 'Courier New';
+    font-size: x-large;
+    color: #221ac7;
+    position: relative;
+    font-style: normal; 
+    left: 350px;
+    top: 64px;
+}
+.woody{
+    font-family: 'Courier New';
+    font-size: x-large;
+    color: #221ac7;
+    position: relative;
+    font-style: normal; 
+    left: 700px;
+    top: -40px;
+}
+.button {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    position: relative;
+  }
+  
+  .button1 {
+    background-color: white; 
+    color:#221ac7; 
+    border: 2px solid #99af4c;
+    left: 400px;
+    top: -40px;
+
+  }
+  
+  .button1:hover {
+    background-color: #99af4c;
+    color: white;
+  }
+  
+  .button2 {
+    background-color: white; 
+    color: #221ac7; 
+    border: 2px solid #99af4c;
+    left: 700px;
+    top: -40px;
+  }
+  
+  .button2:hover {
+    background-color: #99af4c;
+    color: white;
+  }
+  .imgBuzz{
+    position: absolute;
+left: 700px;
+top: 1135px;}
+.pbuzz{
+    font-family: 'Courier New';
+    font-size: larger;
+    color: #221ac7;
+    font-style: normal;
+    top:100px;
+    left: 250px;
+    position: relative; 
+}
+.imgB{
+    position: relative;
+left: 230px;
+top: 170px;}
+.imgW{
+    position: relative;
+    left: 230px;
+    top: 190px;
+}
+    .pwoody{
+        font-family: 'Courier New';
+        font-size: larger;
+        color: #221ac7;
+        font-style: normal;
+        top:100px;
+        left: 250px;
+        position: relative; 
+    }
+
